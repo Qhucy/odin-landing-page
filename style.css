@@ -24,10 +24,6 @@ a:hover
 #header,
 #footer
 {
-    color: white;
-}
-
-#header
-{
     background-color: #1F2937;
+    color: white;
 }
