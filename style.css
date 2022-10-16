@@ -7,7 +7,7 @@ body
     flex-direction: column;
 }
 
-.header
+#header
 {
     background-color: #1F2937;
 }
