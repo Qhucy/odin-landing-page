@@ -7,6 +7,12 @@ body
     flex-direction: column;
 }
 
+#header,
+#footer
+{
+    color: white;
+}
+
 #header
 {
     background-color: #1F2937;
