@@ -1,5 +1,13 @@
 body
 {
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+
     display: flex;
     flex-direction: column;
+}
+
+.header
+{
+    background-color: #1F2937;
 }
