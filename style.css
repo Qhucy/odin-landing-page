@@ -21,6 +21,11 @@ a:hover
     color: aqua;
 }
 
+ul
+{
+    list-style-type: none;
+}
+
 #header,
 #footer
 {
@@ -33,4 +38,20 @@ a:hover
 {
     background-color: #E5E7EB;
     color: #1F2937;
+}
+
+#header
+{
+    padding-left: 10em;
+    padding-right: 10em;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#header ul
+{
+    display: flex;
+    gap: 1em;
 }
