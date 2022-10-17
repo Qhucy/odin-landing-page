@@ -11,3 +11,4 @@ Odin's Landing Page Project
 - Moncler Year Cover Art from https://www.reddit.com/r/JuiceWRLD/comments/jarwpk/moncler_year_cover_art/
 - All Alone Cover Art from https://www.reddit.com/r/JuiceWRLD/comments/h82x4m/all_alone_cover_art/
 - Inner Peace Cover Art from https://genius.com/Juice-wrld-traveling-inner-peace-lyrics
+- Juice WRLD angel background from https://rebekahparks.blogspot.com/2021/05/juice-wrld-fan-art-pfp-52-juice-wrld.html
