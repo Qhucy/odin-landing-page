@@ -274,10 +274,16 @@ ul
     color: white;
 }
 
+#quote figure
+{
+    width: 40em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #quote figure blockquote
 {
     margin: 0;
-
     font-size: 170%;
 }
 
