@@ -3,6 +3,7 @@ Odin's Landing Page Project. 999 Hub is a website that displays information abou
 
 # Project Learning Moments
 I learned how to manipulate flexbox in this project so I can have elements displayed exactly where I want them. This was a CSS heavy project and I was able to improve my mastery of the language through placement of my elements.
+I also learned how to have css support for mobile devices and have different style rules depending on the width of the device.
 
 # Credits
 - Favicon from https://www.audiomack.com/kev-553
