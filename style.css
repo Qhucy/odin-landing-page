@@ -54,12 +54,6 @@ ul
     color: white;
 }
 
-#quote
-{
-    background-color: #E5E7EB;
-    color: #1F2937;
-}
-
 #header
 {
     padding-left: 10em;
@@ -166,6 +160,8 @@ ul
     padding-right: 10em;
     padding-top: 5em;
     padding-bottom: 5em;
+
+    background-color: #E5E7EB;
 }
 
 #quote figure blockquote
