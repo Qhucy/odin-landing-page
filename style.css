@@ -354,3 +354,9 @@ ul
     padding-top: 1em;
     padding-bottom: 1em;
 }
+
+#footer a:hover
+{
+    text-decoration: underline #FF8C42;
+    text-underline-offset: 0.6em;
+}
