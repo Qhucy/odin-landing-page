@@ -233,7 +233,9 @@ ul
 #information ul
 {
     display: flex;
-    gap: 1em;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 3em;
 }
 
 #information figcaption
