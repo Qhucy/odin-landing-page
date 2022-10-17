@@ -141,3 +141,21 @@ ul
     justify-content: center;
     align-items: center;
 }
+
+#information
+{
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#information ul
+{
+    display: flex;
+    gap: 1em;
+}
