@@ -286,6 +286,12 @@ ul
     font-size: 170%;
 }
 
+#quote figure blockquote:hover
+{
+    text-decoration: underline #FF8C42;
+    text-underline-offset: 0.2em;
+}
+
 #quote figcaption
 {
     margin-top: 1em;
