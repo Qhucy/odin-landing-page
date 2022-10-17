@@ -68,7 +68,7 @@ ul
     justify-content: space-between;
 }
 
-#header div:first-child
+.header-main
 {
     display: flex;
     justify-content: center;
@@ -76,7 +76,7 @@ ul
     gap: 1em;
 }
 
-#header div:first-child h2
+.header-main h2
 {
     margin: 0;
 }
@@ -115,6 +115,14 @@ ul
 {
     text-decoration: underline #FF8C42;
     text-underline-offset: 0.4em;
+}
+
+#header ul div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.3em;
 }
 
 #header-background
