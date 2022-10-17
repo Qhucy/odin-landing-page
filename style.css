@@ -65,3 +65,36 @@ ul
 
     font-weight: lighter;
 }
+
+#title
+{
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-top: 4em;
+    padding-bottom: 6em;
+
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+}
+
+#title div
+{
+    flex: 1 1 50%;
+}
+
+.title-info
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.title-image
+{
+    background-color: #5A7585;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
