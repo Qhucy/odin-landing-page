@@ -335,6 +335,8 @@ ul
     background-color: #04151F;
     color: white;
 
+    border-bottom: 2px solid #FF8C42;
+
     display: flex;
     justify-content: center;
     align-items: center;
