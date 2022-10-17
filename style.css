@@ -115,6 +115,13 @@ ul
 
     background-color: #3882F6;
     color: white;
+
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+
+    align-self: flex-start;
 }
 
 .title-image
