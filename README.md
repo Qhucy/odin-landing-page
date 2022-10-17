@@ -10,3 +10,4 @@ Odin's Landing Page Project
 - Die To Live Cover Art from https://dbree.org/v/f9659a
 - Moncler Year Cover Art from https://www.reddit.com/r/JuiceWRLD/comments/jarwpk/moncler_year_cover_art/
 - All Alone Cover Art from https://www.reddit.com/r/JuiceWRLD/comments/h82x4m/all_alone_cover_art/
+- Inner Peace Cover Art from https://genius.com/Juice-wrld-traveling-inner-peace-lyrics
