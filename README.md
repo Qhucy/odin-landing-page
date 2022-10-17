@@ -7,3 +7,4 @@ Odin's Landing Page Project
 - Live Free 999 Logo from https://livefree999.org/
 - Sky High Cover Art from https://genius.com/Juice-wrld-and-young-thug-internet-sky-high-lyrics
 - Soda Pop Covert Art from https://genius.com/Juice-wrld-and-marshmello-soda-pop-lyrics
+- Die To Live Cover Art from https://dbree.org/v/f9659a
