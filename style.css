@@ -213,8 +213,7 @@ ul
 
 #information
 {
-    background-image: linear-gradient(#00CCCC, #008080);
-    
+    background-image: linear-gradient(#00CCCC, #008080);   
     border-bottom: 2px solid #FF8C42;
 
     padding-left: 10em;
@@ -297,58 +296,38 @@ ul
 
 #action
 {
-    margin-left: 10em;
-    margin-right: 10em;
-    margin-top: 4em;
-    margin-bottom: 4em;
+    background-image: linear-gradient(#00CCCC, #008080);   
+    border-bottom: 2px solid #FF8C42;
 
     padding-left: 5em;
     padding-right: 5em;
     padding-top: 2em;
     padding-bottom: 2em;
 
-    background-color: #3298FE;
-    border: 2px solid #3298FE;
-    border-radius: 10px;
+    color: white;
 
     display: flex;
+    justify-content: center;
+    gap: 2em;
+}
 
-    color: white;
+#action a img
+{
+    width: 180%;
+    align-self: center;
 }
 
 .action-text
 {
-    flex: 1 1 70%;
     display: flex;
     flex-direction: column;
+    gap: 0.2em;
 }
 
 .action-text :is(h3, p)
 {
     margin: 0;
     padding: 0;
-}
-
-.action-button
-{
-    flex: 1 1 30%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.action-button button
-{
-    background-color: #3298FE;
-    color: white;
-    font-weight: bold;
-    border: 1px solid white;
-    border-radius: 5px;
-
-    padding-left: 1.5em;
-    padding-right: 1.5em;
-    padding-top: 0.4em;
-    padding-bottom: 0.4em;
 }
 
 #footer
