@@ -269,6 +269,11 @@ ul
     padding-right: 10em;
     padding-top: 5em;
     padding-bottom: 5em;
+
+    color: white;
+
+    background-image: url("assets/angel-background.jpg");
+    background-size: cover;
 }
 
 #quote figure blockquote
@@ -276,7 +281,6 @@ ul
     margin: 0;
 
     font-size: 170%;
-    color: #5A7585;
 }
 
 #quote figcaption
