@@ -12,7 +12,7 @@ h1
     font-family: 'Hero Main', sans-serif;
 
     font-weight: bolder;
-    font-size: 250%;
+    font-size: 300%;
 }
 
 h2
@@ -171,6 +171,7 @@ ul
 .title-info p
 {
     font-weight: light;
+    font-size: 130%;
     color: white;
 }
 
