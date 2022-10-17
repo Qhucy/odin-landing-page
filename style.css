@@ -10,6 +10,14 @@ body
     flex-direction: column;
 }
 
+h1
+{
+    font-family: 'Hero Main', sans-serif;
+
+    font-weight: bolder;
+    font-size: 200%;
+}
+
 a
 {
     color: white;
@@ -54,4 +62,6 @@ ul
 {
     display: flex;
     gap: 1em;
+
+    font-weight: lighter;
 }
