@@ -62,6 +62,7 @@ ul
     align-items: center;
     justify-content: space-between;
 
+    border-top: 2px solid #FF8C42;
     border-bottom: 2px solid #FF8C42;
 }
 
@@ -124,7 +125,7 @@ ul
 
 #header-background
 {
-    margin-bottom: -1em;
+    margin-bottom: -0.21em;
 }
 
 #header-background img
@@ -143,6 +144,9 @@ ul
     display: flex;
     justify-content: center;
     gap: 3em;
+
+    border-top: 2px solid #FF8C42;
+    border-bottom: 2px solid #FF8C42;
 }
 
 #title div
