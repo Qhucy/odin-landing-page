@@ -159,3 +159,26 @@ ul
     display: flex;
     gap: 1em;
 }
+
+#quote
+{
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+#quote figure blockquote
+{
+    margin: 0;
+
+    font-size: 170%;
+    color: #5A7585;
+}
+
+#quote figcaption
+{
+    margin-top: 1em;
+    font-size: 110%;
+    text-align: right;
+}
