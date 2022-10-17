@@ -99,7 +99,12 @@ ul
 {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
+}
+
+.title-info :is(h1, p)
+{
+    margin: 0;
+    padding: 0;
 }
 
 .title-image
