@@ -99,6 +99,7 @@ ul
 {
     display: flex;
     flex-direction: column;
+    gap: 1em;
 }
 
 .title-info :is(h1, p)
