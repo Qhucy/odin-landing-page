@@ -55,12 +55,11 @@ ul
 #header
 {
     position: fixed;
-    width: calc(100% - 6em);
+    width: calc(100% - 3em);
 
     background-color: rgba(4, 21, 31, 0.5);
     color: #FF8C42;
 
-    padding-left: 3em;
     padding-right: 3em;
     padding-top: 0.7em;
     padding-bottom: 0.7em;
