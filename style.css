@@ -193,4 +193,23 @@ ul
     background-color: #66B2FE;
     border: 2px solid #66B2FE;
     border-radius: 10px;
+
+    display: flex;
+}
+
+#action div
+{
+    flex: 1 1 50%;
+}
+
+.action-text
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.action-text :is(h3, p)
+{
+    margin: 0;
+    padding: 0;
 }
