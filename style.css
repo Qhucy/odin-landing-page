@@ -35,13 +35,13 @@ ul
 }
 
 #header,
+#title,
 #footer
 {
     background-color: #1F2937;
     color: white;
 }
 
-#title,
 #quote
 {
     background-color: #E5E7EB;
