@@ -236,6 +236,7 @@ ul
     justify-content: center;
     flex-wrap: wrap;
     gap: 3em;
+    margin-bottom: 2.5em;
 }
 
 #information figcaption
