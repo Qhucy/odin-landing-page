@@ -184,13 +184,20 @@ ul
     color: white;
 
     font-weight: bold;
+    font-size: 150%;
 
-    padding-left: 1.5em;
-    padding-right: 1.5em;
-    padding-top: 0.3em;
-    padding-bottom: 0.3em;
+    padding-left: 3em;
+    padding-right: 3em;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
 
     align-self: flex-start;
+}
+
+.title-info button:hover
+{
+    background-color: #B0602E;
+    border-color: #B0602E;
 }
 
 .title-image
