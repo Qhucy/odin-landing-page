@@ -220,14 +220,11 @@ ul
     padding-right: 10em;
     padding-top: 1em;
     padding-bottom: 1em;
-
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 #information h2
 {
+    text-align: center;
     color: #FFF275;
 }
 
@@ -264,8 +261,6 @@ ul
 {
     border-bottom: 2px solid #FF8C42;
 
-    padding-left: 10em;
-    padding-right: 10em;
     padding-top: 5em;
     padding-bottom: 5em;
 
@@ -275,7 +270,7 @@ ul
 
 #quote figure
 {
-    width: 40em;
+    width: 30em;
     margin-left: auto;
     margin-right: auto;
 }
@@ -355,4 +350,25 @@ ul
 {
     text-decoration: underline #FF8C42;
     text-underline-offset: 0.6em;
+}
+
+
+
+@media all and (max-width: 800px)
+{
+    #title
+    {
+        flex-direction: column;
+    }
+
+    .title-text
+    {
+        width: auto;
+    }
+
+    #header ul
+    {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
 }
