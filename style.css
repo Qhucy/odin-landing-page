@@ -236,6 +236,25 @@ ul
     gap: 1em;
 }
 
+#information figcaption
+{
+    font-size: 130%;
+    margin-top: 0.7em;
+    text-align: center;
+    text-decoration: underline #FF8C42;
+    text-underline-offset: 0.3em;
+}
+
+#information figure
+{
+    border: 2px solid transparent;
+}
+
+#information figure:hover
+{
+    border: 2px solid #FF8C42;
+}
+
 #quote
 {
     padding-left: 10em;
