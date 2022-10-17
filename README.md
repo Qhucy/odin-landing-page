@@ -6,3 +6,4 @@ Odin's Landing Page Project
 - Header background from https://pitchfork.com/news/lil-uzi-vert-and-juice-wrld-team-up-for-new-song-wasted-listen/
 - Live Free 999 Logo from https://livefree999.org/
 - Sky High Cover Art from https://genius.com/Juice-wrld-and-young-thug-internet-sky-high-lyrics
+- Soda Pop Covert Art from https://genius.com/Juice-wrld-and-marshmello-soda-pop-lyrics
