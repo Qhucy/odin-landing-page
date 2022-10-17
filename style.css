@@ -270,7 +270,7 @@ ul
 
 #quote figure
 {
-    width: 30em;
+    width: 40em;
     margin-left: auto;
     margin-right: auto;
 }
@@ -359,11 +359,18 @@ ul
     #title
     {
         flex-direction: column;
+        padding-left: 2em;
+        padding-right: 2em;
     }
 
     .title-text
     {
         width: auto;
+    }
+
+    .title-info a
+    {
+        text-align: center;
     }
 
     #header
@@ -383,5 +390,16 @@ ul
         flex-wrap: wrap;
         justify-content: center;
         gap: 0.5em;
+    }
+
+    #quote
+    {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+
+    #quote figure
+    {
+        width: auto;
     }
 }
