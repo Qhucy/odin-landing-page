@@ -270,10 +270,8 @@ ul
     padding-top: 5em;
     padding-bottom: 5em;
 
+    background-color: #04151F;
     color: white;
-
-    background-image: url("assets/angel-background.jpg");
-    background-size: cover;
 }
 
 #quote figure blockquote
