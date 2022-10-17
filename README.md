@@ -1,5 +1,5 @@
 # odin-landing-page
-Odin's Landing Page Project
+Odin's Landing Page Project. 999 Hub is a website that displays information about the artist Juice WRLD.
 
 # Credits
 - Favicon from https://www.audiomack.com/kev-553
