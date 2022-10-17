@@ -213,6 +213,8 @@ ul
 
 #information
 {
+    background-image: linear-gradient(#45111C, #BD2D4D);
+
     padding-left: 10em;
     padding-right: 10em;
     padding-top: 1em;
@@ -221,6 +223,11 @@ ul
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+#information h2
+{
+    color: #FFF275;
 }
 
 #information ul
