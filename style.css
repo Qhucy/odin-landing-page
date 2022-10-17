@@ -366,9 +366,22 @@ ul
         width: auto;
     }
 
+    #header
+    {
+        width: 100%;
+        padding: 0;
+    }
+
+    .header-main
+    {
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+    }
+
     #header ul
     {
         flex-wrap: wrap;
         justify-content: center;
+        gap: 0.5em;
     }
 }
