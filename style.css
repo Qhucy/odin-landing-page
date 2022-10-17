@@ -263,6 +263,8 @@ ul
 
 #quote
 {
+    border-bottom: 2px solid #FF8C42;
+
     padding-left: 10em;
     padding-right: 10em;
     padding-top: 5em;
